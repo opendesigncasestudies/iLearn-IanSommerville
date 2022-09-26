@@ -63,7 +63,8 @@ The iLearn system is a digital learning environment (DLE) used to support learni
 
 ### Design Solution
 
-Add architecture model of the case study, if available
+![iLearn Architecture](Architecture-iLearn.pdf)
+
 
 ### Outcome
 

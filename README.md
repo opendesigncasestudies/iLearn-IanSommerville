@@ -1,4 +1,4 @@
-# iLearn Case Study - Cited from Ian Sommerville Software Engineering, Tenth Edition 
+# iLearn Case Study - cited from Ian Sommerville Software Engineering, Tenth Edition 
 
 https://software-engineering-book.com/case-studies/
 

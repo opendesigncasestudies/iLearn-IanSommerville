@@ -63,8 +63,14 @@ The iLearn system is a digital learning environment (DLE) used to support learni
 
 ### Design Solution
 
+Proposed Architecture Model
+
 ![iLearn Architecture](architecture-ilearn.jpg)
 
+1. Utility services- These are services that provide functionality that may be required by a number of other services. Authentication, authorisation and
+storage are obvious examples here but there may well be other common services that will be included. Utility services are integrated services
+2. Productivity package- This will offer services such as word processing, spreadsheets, email, etc. Currently MS Office 365
+3. Application services- These are services that offer specific application functionality e.g. a virtual learning environment (VLE) to manage student work, a specific art package for primary school children, etc. Application services may be integrated or independent services and may or may not make use of the utility services in the system.Whatapplication services should be provided initially is an issue for the group looking at the user requirements for iLearn.
 
 ### Outcome
 

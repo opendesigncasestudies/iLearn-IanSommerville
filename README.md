@@ -1,4 +1,6 @@
-# iLearn Case Study - Cited from Ian Sommerville Software Engineering, Tenth Edition, Case Study https://software-engineering-book.com/case-studies/
+# iLearn Case Study - Cited from Ian Sommerville Software Engineering, Tenth Edition, Case Study 
+
+https://software-engineering-book.com/case-studies/
 
 This case study is part of the Open Design Case Study project. This work is licensed under the Creative Commons Attribution-NonCommercial 3.0 ([CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/us/)) United States License.
 
